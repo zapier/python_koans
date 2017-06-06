@@ -18,13 +18,13 @@ koans.about_iteration.AboutIteration
 koans.about_comprehension.AboutComprehension
 koans.about_generators.AboutGenerators
 koans.about_lambdas.AboutLambdas
-koans.about_scoring_project.AboutScoringProject
+# koans.about_scoring_project.AboutScoringProject
 koans.about_classes.AboutClasses
 koans.about_new_style_classes.AboutNewStyleClasses
 koans.about_with_statements.AboutWithStatements
 koans.about_monkey_patching.AboutMonkeyPatching
 koans.about_dice_project.AboutDiceProject
-koans.about_method_bindings.AboutMethodBindings
+# koans.about_method_bindings.AboutMethodBindings
 koans.about_decorating_with_functions.AboutDecoratingWithFunctions
 koans.about_decorating_with_classes.AboutDecoratingWithClasses
 koans.about_inheritance.AboutInheritance
@@ -33,9 +33,9 @@ koans.about_scope.AboutScope
 koans.about_modules.AboutModules
 koans.about_packages.AboutPackages
 koans.about_class_attributes.AboutClassAttributes
-koans.about_attribute_access.AboutAttributeAccess
+# koans.about_attribute_access.AboutAttributeAccess
 koans.about_deleting_objects.AboutDeletingObjects
-koans.about_proxy_object_project.AboutProxyObjectProject
-koans.about_proxy_object_project.TelevisionTest
+# koans.about_proxy_object_project.AboutProxyObjectProject
+#koans.about_proxy_object_project.TelevisionTest
 koans.about_extra_credit.AboutExtraCredit
 koans.about_regex.AboutRegex
